@@ -1,0 +1,26 @@
+{
+    "data":
+    [
+        {
+        "token": 777,
+        "birthDate": "2005-08-15",
+        "deficient": false,
+        "emancipated": false,
+        "enterpriseName": "RC Solucoes",
+        "genre": true,
+        "issuingBody": "ssp",
+        "maritialStatus": "5",
+        "nacionality": "Antígua e Barbuda",
+        "name": "Gabriel Prata",
+        "naturality": "Santa Cruz das Palmeiras",
+        "proffesion": "Dev",
+        "publicAgent": false,
+        "rg": "62.607.552-x",
+        "schooling": "2",
+        "workCard": "000.00000.00",
+        "workLoad": "08:00",
+        "workType": 2,
+        "working": true
+        }
+    ]
+}
